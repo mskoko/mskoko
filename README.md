@@ -13,10 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### Hi there 👋
 
-### 🚀 Web Developer, goal full stack | from Montenegro 🚀
+# I am Web Developer, goal full stack from Montenegro 🚀
 
-Hi there 👋
 Welcome to my humble github profile🤗
 Web programming is my hobby and the business I currently make a living from.
 
