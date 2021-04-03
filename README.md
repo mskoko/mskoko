@@ -25,4 +25,4 @@ I know the following languages very well: PHP, MySQL-MariaDB, JavaScript, jQuery
 I understand and learn the following languages: Python, Node.js, MongoDB;
 Also in my to-do list (I hope you have yours too😁) are the following languages: React, Java (Android)
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=mskoko&show_icons=true&theme=onedark"> <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mskoko&langs_count=6&layout=compact&theme=onedark">
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=mskoko&show_icons=true&theme=onedark&mskoko=hahah"> <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mskoko&langs_count=6&layout=compact&theme=onedark&mskoko=hahah">
