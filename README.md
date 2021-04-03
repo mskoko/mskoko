@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hi there 👋
+## Hello there! 👋
 
 ### I am Web Developer, goal full stack from Montenegro 🚀
 
