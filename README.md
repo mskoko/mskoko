@@ -46,5 +46,4 @@ Also in my to-do list (I hope you have yours too😁):
 
 
 ### 📊 Stats
-[![Muhamed's github stats](https://github-readme-stats.vercel.app/api?username=mskoko&show_icons=true&theme=onedark&mskoko=hahah)](https://github.com/mskoko/)
-[![Muhamed's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mskoko&langs_count=6&layout=compact&theme=onedark&mskoko=hahah)](https://github.com/mskoko/)
+[![Muhamed's github stats](https://github-readme-stats.vercel.app/api?username=mskoko&show_icons=true&theme=onedark&mskoko=hahah)](https://github.com/mskoko/) [![Muhamed's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mskoko&langs_count=6&layout=compact&theme=onedark&mskoko=hahah)](https://github.com/mskoko/)
