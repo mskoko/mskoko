@@ -18,9 +18,8 @@ Here are some ideas to get you started:
 [![Linkedin](https://img.shields.io/badge/-mskoko--me--00-ED604C?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mskoko-me-00/)](https://www.linkedin.com/in/mskoko-me-00/)
 [![Instagram](https://img.shields.io/badge/-_muky00-ED604C?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/_muky00/)](https://www.instagram.com/_muky00/)
 [![Facebook](https://img.shields.io/badge/-mskoko.me-ED604C?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/mskoko.me)](https://www.facebook.com/mskoko.me/)
-[![YouTube](https://img.shields.io/youtube/channel/subscribers/UCiLOB1yDZ01RrQ-ccg5VV2A?style=flat-square)](https://www.youtube.com/channel/UCiLOB1yDZ01RrQ-ccg5VV2A)
 [![Gmail](https://img.shields.io/badge/-mskoko.me@gmail.com-ED604C?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mskoko.me@gmail.com)](mailto:mskoko.me@gmail.com)
-
+[![YouTube](https://img.shields.io/youtube/channel/subscribers/UCiLOB1yDZ01RrQ-ccg5VV2A?style=flat-square)](https://www.youtube.com/channel/UCiLOB1yDZ01RrQ-ccg5VV2A)
 
 ### I am Web Developer, goal full stack from Montenegro 🚀
 
