@@ -32,7 +32,7 @@ I know the following languages very well:
    - PHP
    - MySQL
    - JavaScript
-   - jQuery
+(maybe language:)
    - (html, css, bs-/3/4/5)
 
 I understand and learn the following languages:
