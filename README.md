@@ -32,14 +32,15 @@ I know the following languages very well:
    - PHP
    - MySQL
    - JavaScript
+
 (maybe language:)
    - (html, css, bs-/3/4/5)
 
-I understand and learn the following languages:
+I understand and learn:
   - Python
   - Node.js
 
-Also in my to-do list (I hope you have yours too😁) are the following languages:
+Also in my to-do list (I hope you have yours too😁):
   - React
   - Java (Android)
 
