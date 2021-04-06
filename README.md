@@ -46,4 +46,5 @@ Also in my to-do list (I hope you have yours too😁):
 
 
 ### 📊 Stats
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=mskoko&show_icons=true&theme=onedark&mskoko=hahah"> <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mskoko&langs_count=6&layout=compact&theme=onedark&mskoko=hahah">
+[![Stats1](https://github-readme-stats.vercel.app/api?username=mskoko&show_icons=true&theme=onedark&mskoko=hahah)](https://github.com/mskoko/)
+[![Stats2](https://github-readme-stats.vercel.app/api/top-langs/?username=mskoko&langs_count=6&layout=compact&theme=onedark&mskoko=hahah)](https://github.com/mskoko/)
