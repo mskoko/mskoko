@@ -27,16 +27,14 @@ Welcome to my humble github profile🤗
 Web programming is my hobby and the business I currently make a living from.
 
 I am guided through life by the sentence: "I know I know nothing". - I agree that it sounds ridiculous but this sentence gives me motivation to research new things ... I learning and working as a web developer for more than four years.
-I know the following languages very well: 
+
 ### 💻 Languages
+I know the following languages very well: 
    - PHP
    - MySQL
    - JavaScript
 
-(maybe language:)
-   - (html, css, bs-/3/4/5)
-
-I understand and learn:
+I started learning:
   - Python
   - Node.js
 
