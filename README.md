@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 [![Gmail](https://img.shields.io/badge/-mskoko.me@gmail.com-ED604C?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mskoko.me@gmail.com)](mailto:mskoko.me@gmail.com)
 [![YouTube](https://img.shields.io/youtube/channel/subscribers/UCiLOB1yDZ01RrQ-ccg5VV2A?style=flat-square)](https://www.youtube.com/channel/UCiLOB1yDZ01RrQ-ccg5VV2A)
 
-### I am Web Developer, goal full stack from Montenegro 🚀
+### I am web developer, goal full stack from Montenegro 🚀
 
 Welcome to my humble github profile🤗
 Web programming is my hobby and the business I currently make a living from.
@@ -46,5 +46,5 @@ Also in my to-do list (I hope you have yours too😁):
 
 
 ### 📊 Stats
-[![Stats1](https://github-readme-stats.vercel.app/api?username=mskoko&show_icons=true&theme=onedark&mskoko=hahah)](https://github.com/mskoko/)
-[![Stats2](https://github-readme-stats.vercel.app/api/top-langs/?username=mskoko&langs_count=6&layout=compact&theme=onedark&mskoko=hahah)](https://github.com/mskoko/)
+[![Muhamed's github stats](https://github-readme-stats.vercel.app/api?username=mskoko&show_icons=true&theme=onedark&mskoko=hahah)](https://github.com/mskoko/)
+[![Muhamed's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mskoko&langs_count=6&layout=compact&theme=onedark&mskoko=hahah)](https://github.com/mskoko/)
