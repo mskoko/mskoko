@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 
 ## <img src="./assets/waving.gif" width="25px"> Muhamed Skoko @mskokome
 
-[![Gmail](https://img.shields.io/badge/-mskoko.me@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mskoko.me@gmail.com)](mailto:mskoko.me@gmail.com)
 [![Instagram](https://img.shields.io/badge/-_muky00-ED604C?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/_muky00/)](https://www.instagram.com/_muky00/)
 [![YouTube](https://img.shields.io/youtube/channel/subscribers/UCiLOB1yDZ01RrQ-ccg5VV2A?style=flat-square)](https://www.youtube.com/channel/UCiLOB1yDZ01RrQ-ccg5VV2A)
-[![Linkedin](https://img.shields.io/badge/-mskoko--me--00-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mskoko-me-00/)](https://www.linkedin.com/in/mskoko-me-00/)
-[![Facebook](https://img.shields.io/badge/-mskoko.me-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/mskoko.me)](https://www.facebook.com/mskoko.me/)
+[![Linkedin](https://img.shields.io/badge/-mskoko--me--00-ED604C?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mskoko-me-00/)](https://www.linkedin.com/in/mskoko-me-00/)
+[![Gmail](https://img.shields.io/badge/-mskoko.me@gmail.com-ED604C?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mskoko.me@gmail.com)](mailto:mskoko.me@gmail.com)
+[![Facebook](https://img.shields.io/badge/-mskoko.me-ED604C?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/mskoko.me)](https://www.facebook.com/mskoko.me/)
 
 
 
