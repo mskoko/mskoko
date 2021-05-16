@@ -35,12 +35,11 @@ I know the following languages very well:
    - JavaScript
 
 I started learning:
-  - Python
   - Node.js
+  - Python
 
 Also in my to-do list (I hope you have yours too😁):
-  - React
-  - Java (Android)
+  - React & React Native
 
 
 ### 📊 Stats
