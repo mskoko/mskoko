@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 [![Facebook](https://img.shields.io/badge/-mskoko.me-ED604C?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/mskoko.me)](https://www.facebook.com/mskoko.me/)
 [![Gmail](https://img.shields.io/badge/-mskoko.me@gmail.com-ED604C?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mskoko.me@gmail.com)](mailto:mskoko.me@gmail.com)
 [![YouTube](https://img.shields.io/youtube/channel/subscribers/UCiLOB1yDZ01RrQ-ccg5VV2A?style=flat-square)](https://www.youtube.com/channel/UCiLOB1yDZ01RrQ-ccg5VV2A)
-[![PayPal](https://www.citypng.com/public/uploads/preview/paypal-donate-blue-button-hd-png-21635276531bin35y3ign.png)](https://i.imgur.com/0DI1uCC.png)
+[![PayPal](https://i.imgur.com/XtqYM5O.png)](https://www.paypal.com/donate/?hosted_button_id=F6ESE2T9RQFZG)
 
 ### I am web developer, goal full stack from Montenegro 🚀
 
@@ -34,13 +34,14 @@ I know the following languages very well:
    - PHP
    - MySQL
    - JavaScript
+   - HTML, CSS
 
-I started learning:
+I learning:
   - Node.js
-  - Python
+  - React & React Native
 
 Also in my to-do list (I hope you have yours too😁):
-  - React & React Native
+  - Python
 
 
 ### 📊 Stats
